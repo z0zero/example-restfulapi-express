@@ -1,0 +1,35 @@
+# Mengabaikan direktori node_modules
+node_modules/
+
+# Mengabaikan file log
+*.log
+
+# Mengabaikan file konfigurasi lingkungan
+.env
+
+# Mengabaikan direktori build
+/build
+
+# Mengabaikan direktori distribusi
+/dist
+
+# Mengabaikan file cache
+.cache
+
+# Mengabaikan file sistem operasi
+.DS_Store
+Thumbs.db
+
+# Mengabaikan file sementara
+*.tmp
+*.temp
+
+# Mengabaikan file konfigurasi IDE
+.vscode/
+.idea/
+
+# Mengabaikan direktori uploads
+/uploads
+
+# Mengabaikan file package-lock.json
+package-lock.json
